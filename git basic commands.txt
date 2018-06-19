@@ -1,0 +1,17 @@
+git --version //to check version of git and presence in PC
+
+git init //repository creation
+
+git status // to check added file
+
+git add // to add files to index (stage)
+
+git add --all and git add. // to add all the files to index
+
+git rm --cachedfilename // to remove file from index
+
+git config --global user.name "username" //to set user name
+
+git config --global user.email "email" //to set email address
+
+git commit -m"message" //to commit added files
