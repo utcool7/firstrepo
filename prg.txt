@@ -1,0 +1,16 @@
+C++ program for a factoial
+
+#inlude<iostream.h>
+#include<conio.h>
+
+void main()
+{
+  int f=1,i=5;
+
+   for(i=5;i>=1;i--)
+
+	{ 
+  	 f=f*i;
+	}
+
+}
